@@ -1,6 +1,6 @@
 ---
 title: "Multimodal Anomalous Tissue Region Detection Enhanced with Spatial Transcriptomics"
-excerpt: "<em>MEATRD</em> is a multimodal anomaly detection method that integrates histology image and Spatial Transcriptomics gene expression data. <br/><br/><img src='/images/MEATRD.png' width='60%'><br/>"
+excerpt: "<em>MEATRD</em> is a multimodal anomaly detection method that integrates histology image and Spatial Transcriptomics gene expression data. <br/><img src='/images/MEATRD.png' width='60%'><br/><br/>"
 collection: portfolio
 ---
 
