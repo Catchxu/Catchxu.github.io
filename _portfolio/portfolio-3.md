@@ -1,6 +1,6 @@
 ---
 title: "Domain Adaptive and Fine-grained Anomaly Detection for Single-cell Sequencing Data and Beyond"
-excerpt: "<em>ACSleuth</em> is a GAN-based generative model for domain adaptive and fine-grained anomaly detection in the single-cell/tabular data. <br/><br/><img src='/images/ACSleuth.png'>"
+excerpt: "<em>ACSleuth</em> is a GAN-based generative model for domain adaptive and fine-grained anomaly detection in the single-cell/tabular data. <br/><br/><img src='/images/ACSleuth.png' width='60%'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Detecting and Dissecting Anomalous Anatomic Regions in Spatial Transcriptomics with STANDS"
-excerpt: "<em>STANDS</em> is a GAN-based multi-task deep learning framework, which can detect and dissect anomalous tissue domains (DDATD) with Spatial Transcriptomics or scRNA-seq. <br/><br/><img src='/images/DDATD.png'>"
+excerpt: "<em>STANDS</em> is a GAN-based multi-task deep learning framework, which can detect and dissect anomalous tissue domains (DDATD) with Spatial Transcriptomics or scRNA-seq. <br/><br/><img src='/images/DDATD.png' width='60%'>"
 collection: portfolio
 ---
 
