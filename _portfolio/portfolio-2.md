@@ -10,6 +10,6 @@ Comparative experiments involving 14 multimodal public datasets about human thor
 
 <br/>
 <div align=center>
-<img src='/images/MEATRD.png' width='80%'>
+<img src='/images/MEATRD.png' width='100%'>
 </div>
 <br/>
