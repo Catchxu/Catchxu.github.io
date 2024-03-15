@@ -15,8 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "CV (PDF)"
-    url: /files/CV_kaichenxu.pdf
+  - title: "CV"
+    url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
