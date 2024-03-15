@@ -10,6 +10,6 @@ Comparative experiments involving 18 public datasets and 15 baseline methods dem
 
 <br/>
 <div align=center>
-<img src='/images/ACSleuth.png' width='70%'>
+<img src='/images/ACSleuth.png' width='80%'>
 </div>
 <br/>

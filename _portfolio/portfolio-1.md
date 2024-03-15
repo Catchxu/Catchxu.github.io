@@ -10,6 +10,6 @@ Comparative experiments involving 5 public datasets and 18 baseline methods demo
 
 <br/>
 <div align=center>
-<img src='/images/dilemma.png' width='70%'>
+<img src='/images/dilemma.png' width='80%'>
 </div>
 <br/>

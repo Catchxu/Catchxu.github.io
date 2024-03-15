@@ -12,6 +12,6 @@ We designed and write the web pages [STANDS](https://catchxu.github.io/STANDS/) 
 
 <br/>
 <div align=center>
-<img src='/images/DDATD.png' width='70%'>
+<img src='/images/DDATD.png' width='80%'>
 </div>
 <br/>
