@@ -9,3 +9,9 @@ We proposed STANDS, a GAN-based multi-task deep learning framework that can simu
 Comparative experiments involving 27 multimodal datasets of different individuals and organizations, and 14 baseline methods demonstrated that STANDS, a multi-task learning framework, outperforms existing methods in tasks such as anomaly detection, batch effect correction, and anomaly subtypes identification.
 
 We designed and write the web pages [STANDS](https://catchxu.github.io/STANDS/) used to present the main features of STANDS, API documentation, and tutorials.
+
+<br/>
+<div align=center>
+<img src='/images/DDATD.png' width='70%'>
+</div>
+<br/>
