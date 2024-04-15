@@ -1,6 +1,6 @@
 ---
 title: "Series Anomaly Inference with Nonlinear Markov to Circumvent Walking a Tightrope"
-excerpt: "<em>ANIM</em> is a novel probabilistic module based on Nonlinear Markov for the unsupervised time series anomaly inference. <br/><img src='/images/dilemma.png' width='60%'><br/><br/>"
+excerpt: "<em>ANIM</em> is a novel probabilistic module based on Nonlinear Markov for the unsupervised time series anomaly inference. <br/><img src='/images/dilemma.png' width='80%'><br/><br/>"
 collection: portfolio
 ---
 
@@ -10,6 +10,6 @@ Comparative experiments involving 5 public datasets and 18 baseline methods demo
 
 <br/>
 <div align=center>
-<img src='/images/dilemma.png' width='80%'>
+<img src='/images/dilemma.png' width='100%'>
 </div>
 <br/>
