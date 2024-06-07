@@ -4,9 +4,7 @@ excerpt: "<em>ANIM</em> is a novel probabilistic module based on Nonlinear Marko
 collection: portfolio
 ---
 
-We proposed the "Representation Dilemma" phenomenon in the time series anomaly detection (TSAD), i.e., backbones with strong generalization will reduce the effect of TSAD. To realize the unity of representation learning and downstream task TSAD, an anomaly inference method based on Nonlinear Markov Chains, ANIM, is proposed to guide different types of representation backbones for anomaly detection.
-
-Comparative experiments involving 5 public datasets and 18 baseline methods demonstrated that ANIM outperforms existing methods for TSAD. Meanwhile, comparison experiments involving 6 different types of representation backbones demonstrate the insensitivity of ANIM to backbones.
+In the time series anomaly detection (TSAD), current methods often learn representations to differentiate anomalies from normal samples. However, state-of-the-art (SOTA) representation learning frameworks often face challenges in TSAD. One possible reason is that their overly powerful representations treat anomalies as generalizations of normal samples, resulting in inappropriately similar embeddings Therefore, it strikes a delicate but difficult balance in representation, like "Walking a Tightrope", avoiding both excessive strength and inadequacy. To circumvent this representation dilemma, we propose ANIM to guide representation backbones for TSAD. Initially, we fine-tune backbones to extract prototypes from normal series. We assume that the appearance of normal prototypes exhibits a relatively stable regularity, whereas sudden anomalies disrupt this regularity. ANIM infers anomalies by quantifying the extent to which regularity is disrupted through nonlinear Markov stationarity. Extensive benchmarks demonstrate ANIM's superiority over SOTA methods in TSAD.
 
 <br/>
 <div align=center>
