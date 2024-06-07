@@ -8,7 +8,11 @@ We proposed a generative model ACSleuth based on Maximum Mean Discrepancy (MMD) 
 
 Comparative experiments involving 18 public datasets and 15 baseline methods demonstrated that ACsleuth outperforms existing methods for both routine and fine-grained anomaly detection.
 
-This paper has been accepted by IJCAI 2024.
+This paper has been accepted by IJCAI 2024. 
+
+ArXiv: https://arxiv.org/abs/2404.17454
+
+GitHub: https://github.com/Catchxu/ACSleuth
 
 <br/>
 <div align=center>
