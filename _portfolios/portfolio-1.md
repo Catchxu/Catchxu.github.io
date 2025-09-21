@@ -6,7 +6,7 @@ collection: portfolios
 
 <br/>
 <div align=center>
-<img src='/images/nonseq.png' width='100%'>
+<img src='/images/nonseq.png' width='90%'>
 </div>
 <br/>
 
@@ -14,7 +14,7 @@ Positional encoding is essential for supplementing transformer with positional i
 
 <br/>
 <div align=center>
-<img src='/images/dilemma.png' width='80%'>
+<img src='/images/CAPE.png' width='70%'>
 </div>
 <br/>
 

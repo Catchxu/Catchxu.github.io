@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Kaichen Xu"
 title_separator          : "-"
 name                     : &name "Kaichen Xu"
-description              : &description "B.S. Student in Statistics at ZUEL"
+description              : &description "M.S. Student in Computer Science at Emory University"
 url                      : https://catchxu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Catchxu.github.io"
@@ -26,7 +26,7 @@ author:
   pronouns         :  
   bio              : "Generative AI for Serendipity"
   location         : "China"
-  employer         : # "Zhongnan University of Economics and Law"
+  employer         : "Emory University"
   uri              : "https://catchxu.github.io"
   email            : "kaichenxu358@gmail.com" 
 
