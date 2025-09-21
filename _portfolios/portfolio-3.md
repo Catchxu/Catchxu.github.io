@@ -6,11 +6,9 @@ collection: portfolios
 
 The accurate detection of anomalous anatomic regions, followed by their dissection into biologically heterogeneous subdomains across multiple tissue slices, is of paramount importance in clinical diagnostics, targeted therapies and biomedical research. This procedure, which we refer to as Detection and Dissection of Anomalous Tissue Domains (DDATD), serves as the first and foremost step in a comprehensive analysis of tissues harvested from affected individuals for revealing population-level and individual-specific factors (e.g., pathogenic cell types) associated with disease developments.
 
-<br/>
 <div align=center>
 <img src='/images/DDATD.png' width='80%'>
 </div>
-<br/>
 
 Thus, we introduce STANDS, an innovative framework built on a suite of specialized Generative Adversarial Networks (GANs) for seamlessly integrating the three tasks of DDATD. The framework consists of three components.
 
@@ -20,11 +18,9 @@ Thus, we introduce STANDS, an innovative framework built on a suite of specializ
 
 <i>Component III (C3)</i> fuses the embeddings and reconstruction residuals of aligned anomalous spots to serve as inputs to an iterative clustering algorithm which groups anomalies into distinct subtypes.
 
-<br/>
 <div align=center>
 <img src='/images/STANDS.png' width='80%'>
 </div>
-<br/>
 
 This paper has been accepted by Nature Communications. 
 
