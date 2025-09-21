@@ -9,6 +9,7 @@ The accurate detection of anomalous anatomic regions, followed by their dissecti
 <div align=center>
 <img src='/images/DDATD.png' width='80%'>
 </div>
+<br/>
 
 Thus, we introduce STANDS, an innovative framework built on a suite of specialized Generative Adversarial Networks (GANs) for seamlessly integrating the three tasks of DDATD. The framework consists of three components.
 
@@ -21,6 +22,7 @@ Thus, we introduce STANDS, an innovative framework built on a suite of specializ
 <div align=center>
 <img src='/images/STANDS.png' width='80%'>
 </div>
+<br/>
 
 This paper has been accepted by Nature Communications. 
 

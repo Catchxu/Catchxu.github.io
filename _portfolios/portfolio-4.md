@@ -9,6 +9,7 @@ Fined-grained anomalous cell detection from affected tissues is critical for cli
 <div align=center>
 <img src='/images/ACSleuth.png' width='80%'>
 </div>
+<br/>
 
 This paper has been accepted by IJCAI 2024. 
 
