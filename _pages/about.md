@@ -13,16 +13,22 @@ I am Kaichen Xu, currently a graduate student in Computer Science at Emory Unive
 
 What excites me most about research is not only the pursuit of solutions, but the chance to contribute to a broader understanding of the world through computation. I see science as a quiet yet enduring dialogue between curiosity and rigor --- a dialogue that continually reminds us how much remains to be discovered. It is this balance of precision and wonder that I hope to carry forward in my journey.
 
-
-
+<br/>
+<div align=center>
+<img src='/images/CUHKSZ.jpg' width='60%'>
+</div>
+<br/>
 
 ## Research Interests 🕶️
 Building on these experiences and years of exploration, my research interests include, but are not limited to, generative models, computational biology, and the theory of deep learning. Together with my collaborators, I have developed a number of algorithms and tools based on generative models for applications such as disease discovery, batch effect correction, and data retrieval. Beyond AI–biology scenarios, I am also working on generalizing these methods to broader domains, making sustained contributions to the computer science community through both theoretical analysis and empirical validation. For more details, please see my [Publications](./publications.md) pages.
 
 In addition, I am currently applying to Ph.D. programs in Computer Science, Data Science, or Statistics. More details about my background can be found in my [CV](./cv.html). If you are interested in my research experience and would like to explore potential collaboration, please feel free to reach out to me at kaichenxu358@gmail.com --- I would be delighted to connect and discuss further.
 
-
-
+<br/>
+<div align=center>
+<img src='/images/orange.jpg' width='60%'>
+</div>
+<br/>
 
 ## Recent News ✉️
 * 09/19/2025 &nbsp;&nbsp; Our work [CAPE](/portfolios/portfolio-1/) is accepted by [NeurIPS 2025](https://neurips.cc/virtual/2025/poster/116613).
