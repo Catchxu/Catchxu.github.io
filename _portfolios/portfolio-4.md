@@ -1,31 +1,19 @@
 ---
-title: "Detecting and Dissecting Anomalous Anatomic Regions in Spatial Transcriptomics with STANDS"
-excerpt: "<em>STANDS</em> is a GAN-based multi-task deep learning framework, which can detect and dissect anomalous tissue domains (DDATD) with Spatial Transcriptomics or scRNA-seq. <br/><img src='/images/DDATD.png' width='60%'><br/><br/>"
+title: "Domain Adaptive and Fine-grained Anomaly Detection for Single-cell Sequencing Data and Beyond"
+excerpt: "<em>ACSleuth</em> is a GAN-based generative model for domain adaptive and fine-grained anomaly detection in the single-cell/tabular data. <br/><img src='/images/ACSleuth.png' width='60%'><br/><br/>"
 collection: portfolios
 ---
 
-The accurate detection of anomalous anatomic regions, followed by their dissection into biologically heterogeneous subdomains across multiple tissue slices, is of paramount importance in clinical diagnostics, targeted therapies and biomedical research. This procedure, which we refer to as Detection and Dissection of Anomalous Tissue Domains (DDATD), serves as the first and foremost step in a comprehensive analysis of tissues harvested from affected individuals for revealing population-level and individual-specific factors (e.g., pathogenic cell types) associated with disease developments.
+Fined-grained anomalous cell detection from affected tissues is critical for clinical diagnosis and pathological research. Single-cell sequencing data provide unprecedented opportunities for this task. However, current anomaly detection methods struggle to handle domain shifts prevalent in multi-sample and multi-domain single-cell sequencing data, leading to suboptimal performance. Moreover, these methods fall short of distinguishing anomalous cells into pathologically distinct subtypes. In response, we propose ACSleuth, a novel, reconstruction deviation-guided generative framework that integrates the detection, domain adaptation, and fine-grained annotating of anomalous cells into a methodologically cohesive workflow. Notably, we present the first theoretical analysis of using reconstruction deviations output by generative models for anomaly detection in lieu of domain shifts. This analysis informs us to develop a novel and superior maximum mean discrepancy-based anomaly scorer in ACSleuth. Extensive benchmarks over various single-cell data and other types of tabular data demonstrate ACSleuth's superiority over the state-of-the-art methods in identifying and subtyping anomalies in multi-sample and multi-domain contexts.
 
 <br/>
 <div align=center>
-<img src='/images/DDATD.png' width='80%'>
+<img src='/images/ACSleuth.png' width='80%'>
 </div>
 <br/>
 
-Thus, we introduce STANDS, an innovative framework built on a suite of specialized Generative Adversarial Networks (GANs) for seamlessly integrating the three tasks of DDATD. The framework consists of three components.
+This paper has been accepted by IJCAI 2024. 
 
-<i>Component I (C1)</i> trains a GAN model on the reference dataset, learning to reconstruct normal spots from their multimodal representations of both spatial transcriptomics data and associated histology image. Subsequently, the model is applied on the target datasets to identify anomalous spots as those with unexpectedly large reconstruction deviances, namely anomaly scores.
+ArXiv: <https://arxiv.org/abs/2404.17454>
 
-<i>Component II (C2)</i> aims at diminishing the non-biological variations (e.g. batch effects) among anomalies via aligning target datasets in a common space. It employs two cooperative GAN models to identify pairs of reference and target spots that share similar biological contents, based on which the target datasets are aligned to the reference data space via “style-transfer”.
-
-<i>Component III (C3)</i> fuses the embeddings and reconstruction residuals of aligned anomalous spots to serve as inputs to an iterative clustering algorithm which groups anomalies into distinct subtypes.
-
-<br/>
-<div align=center>
-<img src='/images/STANDS.png' width='80%'>
-</div>
-<br/>
-
-GitHub: <https://github.com/Catchxu/STANDS>
-
-Website: <https://catchxu.github.io/STANDS/>
+GitHub: <https://github.com/Catchxu/ACSleuth>

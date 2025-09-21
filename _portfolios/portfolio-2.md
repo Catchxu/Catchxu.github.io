@@ -12,3 +12,9 @@ offering a molecular perspective for detecting ATRs. Yet, there is a dearth of A
 <img src='/images/MEATRD.png' width='100%'>
 </div>
 <br/>
+
+This paper has been accepted by AAAI 2025. 
+
+ArXiv: <https://arxiv.org/abs/2412.10659>
+
+GitHub: <https://github.com/wqlzuel/MEATRD>

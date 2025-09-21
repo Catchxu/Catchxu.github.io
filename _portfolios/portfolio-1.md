@@ -1,13 +1,25 @@
 ---
-title: "Series Anomaly Inference with Nonlinear Markov to Circumvent Walking a Tightrope"
-excerpt: "<em>ANIM</em> is a novel probabilistic module based on Nonlinear Markov for the unsupervised time series anomaly inference. <br/><img src='/images/dilemma.png' width='80%'><br/><br/>"
+title: "Causality-Induced Positional Encoding for Transformer-Based Representation Learning of Non-Sequential Features"
+excerpt: "<em>CAPE</em> is a novel positional encoding that identifies underlying causal structure over non-sequential features to improve the performance of transformer-based models. <br/><img src='/images/nonseq.png' width='80%'><br/><br/>"
 collection: portfolios
 ---
 
-In the time series anomaly detection (TSAD), current methods often learn representations to differentiate anomalies from normal samples. However, state-of-the-art (SOTA) representation learning frameworks often face challenges in TSAD. One possible reason is that their overly powerful representations treat anomalies as generalizations of normal samples, resulting in inappropriately similar embeddings Therefore, it strikes a delicate but difficult balance in representation, like "Walking a Tightrope", avoiding both excessive strength and inadequacy. To circumvent this representation dilemma, we propose ANIM to guide representation backbones for TSAD. Initially, we fine-tune backbones to extract prototypes from normal series. We assume that the appearance of normal prototypes exhibits a relatively stable regularity, whereas sudden anomalies disrupt this regularity. ANIM infers anomalies by quantifying the extent to which regularity is disrupted through nonlinear Markov stationarity. Extensive benchmarks demonstrate ANIM's superiority over SOTA methods in TSAD.
+<br/>
+<div align=center>
+<img src='/images/nonseq.png' width='100%'>
+</div>
+<br/>
+
+Positional encoding is essential for supplementing transformer with positional information of tokens. Existing positional encoding methods demand predefined token/feature order, rendering them unsuitable for real-world data with non-sequential yet causally-related features. To address this limitation, we propose CAPE, a novel method that identifies underlying causal structure over non-sequential features as a weighted directed acyclic graph (DAG) using generalized structural equation modeling. The DAG is then embedded in hyperbolic space where its geometric structure is well-preserved using a hyperboloid model-based approach that effectively captures two important causal graph properties (causal strength & causal specificity). This step yields causality-aware positional encodings for the features, which are converted into their rotary form for integrating with transformer's self-attention mechanism. Theoretical analysis reveals that CAPE-generated rotary positional encodings possess three valuable properties for enhanced self-attention, including causal distance-induced attenuation, causal generality-induced attenuation, and robustness to positional disturbances. We evaluate CAPE over both synthetic and real-word datasets, empirically demonstrating its theoretical properties and effectiveness in enhancing transformer for data with non-sequential features.
 
 <br/>
 <div align=center>
-<img src='/images/dilemma.png' width='100%'>
+<img src='/images/dilemma.png' width='80%'>
 </div>
 <br/>
+
+This paper has been accepted by NeurIPS 2025. 
+
+ArXiv: TBD
+
+GitHub: <https://github.com/Catchxu/CAPE>

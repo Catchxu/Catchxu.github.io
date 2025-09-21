@@ -19,7 +19,7 @@ author_profile: true
 
 ## Journal Articles
 
-* <b>Kaichen Xu<sup>*</sup></b>, Yan Lu, Suyang Hou, Kainan Liu, Yihang Du, Mengqian Huang, Hao Feng, Hao Wu, and Xiaobo Sun<sup>*</sup>. Detecting and Dissecting Anomalous Anatomic Regions in Spatial Transcriptomics with STANDS. <i>Nature Communications</i>, 2024.
+* <b>Kaichen Xu<sup>*</sup></b>, Yan Lu, Suyang Hou, Kainan Liu, Yihang Du, Mengqian Huang, Hao Feng, Hao Wu, and Xiaobo Sun<sup>*</sup>. Detecting anomalous anatomic regions in spatial transcriptomics with STANDS. <i>Nature Communications</i>, 2024.
 
 * <b>Kaichen Xu</b>, Pengyu Xie, Zhanli Li, Hao Wu, and Xiaobo Sun. Large-scale Gene Topic Modeling for Single-cell Multi-omics Retrieval Augmented Generation. <i>Manuscript</i>, 2024. In Preparation.
 
