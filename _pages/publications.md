@@ -21,9 +21,11 @@ author_profile: true
 
 * <b>Kaichen Xu<sup>*</sup></b>, Yan Lu, Suyang Hou, Kainan Liu, Yihang Du, Mengqian Huang, Hao Feng, Hao Wu, and Xiaobo Sun<sup>*</sup>. Detecting anomalous anatomic regions in spatial transcriptomics with STANDS. <i>Nature Communications</i>, 2024.
 
+* <b>Kaichen Xu<sup>*</sup></b>, Kainan Liu<sup>*</sup>, Linjie Wang, Yueyang Ding, Yan Lu, Hao Wu, and Xiaobo Sun. An Integrated Approach for Detecting and Subtyping Anomalous Single Cells across Samples and Modalities. <i>Genomics Proteomics Bioinformatics</i>, 2025.
+
 * Tao Deng<sup>*</sup>, Mengqian Huang, <b>Kaichen Xu</b>, Yan Lu, Yucheng Xu, Shiyu Chen, Nina Xie, Hao Wu, and Xiaobo Sun<sup>*</sup>. LEGEND: An Integrative Algorithm for Identifying Co-expressed and Cofunctional Genes in Multimodal Transcriptomic Sequencing Data. <i>Genomics Proteomics Bioinformatics</i>, 2025.
 
-* <b>Kaichen Xu<sup>*</sup></b>, Kainan Liu<sup>*</sup>, Linjie Wang, Yueyang Ding, Yan Lu, Hao Wu, and Xiaobo Sun. An Integrated Approach for Detecting and Subtyping Anomalous Single Cells across Samples and Modalities. <i>Genomics Proteomics Bioinformatics</i>, 2025.
+
 
 
 ## Conference Papers

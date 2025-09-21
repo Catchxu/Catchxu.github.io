@@ -11,11 +11,17 @@ Greetings, welcome to my page!
 
 I am Kaichen Xu, currently a graduate student in Computer Science at Emory University. Before joining Emory, I spent four unforgettable years at Zhongnan University of Economics and Law (ZUEL), where I earned my bachelor’s degree and developed a strong passion for research. During my undergraduate studies, I had the privilege of working under the mentorship of [Dr. Xiaobo Sun](https://scholar.google.com/citations?user=l56IWfgAAAAJ&hl=en) from the School of Statistics and Mathematics, ZUEL. It was also at ZUEL that I discovered my deep interest in the interdisciplinary field of computational biology and built lasting friendships with many like-minded peers. To further explore this intersection of algorithms and biological data, I joined The Chinese University of Hong Kong (Shenzhen) in the summer of 2025 as a research assistant, working under the guidance of [Dr. Jin Liu](https://sites.google.com/view/liujinlab/home). This internship broadened my research perspective and allowed me to deepen my understanding of computational approaches to biological problems.
 
+What excites me most about research is not only the pursuit of solutions, but the chance to contribute to a broader understanding of the world through computation. I see science as a quiet yet enduring dialogue between curiosity and rigor --- a dialogue that continually reminds us how much remains to be discovered. It is this balance of precision and wonder that I hope to carry forward in my journey.
+
+
+
+
+## Research Interests 🕶️
 Building on these experiences and years of exploration, my research interests include, but are not limited to, generative models, computational biology, and the theory of deep learning. Together with my collaborators, I have developed a number of algorithms and tools based on generative models for applications such as disease discovery, batch effect correction, and data retrieval. Beyond AI–biology scenarios, I am also working on generalizing these methods to broader domains, making sustained contributions to the computer science community through both theoretical analysis and empirical validation. For more details, please see my [Publications](./publications.md) pages.
 
 In addition, I am currently applying to Ph.D. programs in Computer Science, Data Science, or Statistics. More details about my background can be found in my [CV](./cv.html). If you are interested in my research experience and would like to explore potential collaboration, please feel free to reach out to me at kaichenxu358@gmail.com --- I would be delighted to connect and discuss further.
 
-Finally, what excites me most about research is not only the pursuit of solutions, but the chance to contribute to a broader understanding of the world through computation. I see science as a quiet yet enduring dialogue between curiosity and rigor --- a dialogue that continually reminds us how much remains to be discovered. It is this balance of precision and wonder that I hope to carry forward in my journey.
+
 
 
 ## Recent News ✉️
