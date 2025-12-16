@@ -9,12 +9,12 @@ redirect_from:
 
 Greetings, welcome to my page!
 
-I am Kaichen Xu, currently a graduate student in Computer Science at Emory University. Before joining Emory, I spent four unforgettable years at Zhongnan University of Economics and Law (ZUEL), where I earned my bachelor’s degree and developed a strong passion for research. During my undergraduate studies, I had the privilege of working under the mentorship of [Dr. Xiaobo Sun](https://scholar.google.com/citations?user=l56IWfgAAAAJ&hl=en) from the School of Statistics and Mathematics, ZUEL. It was also at ZUEL that I discovered my deep interest in the interdisciplinary field of computational biology and built lasting friendships with many like-minded peers. To further explore this intersection of algorithms and biological data, I joined The Chinese University of Hong Kong (Shenzhen) in the summer of 2025 as a research assistant, working under the guidance of [Dr. Jin Liu](https://sites.google.com/view/liujinlab/home). This internship broadened my research perspective and allowed me to deepen my understanding of computational approaches to biological problems.
+I am Kaichen Xu, currently a graduate student in Computer Science at Emory University. Before joining Emory, I spent four unforgettable years at Zhongnan University of Economics and Law (ZUEL), where I earned my bachelor’s degree and developed a strong passion for research. During my undergraduate studies, I had the privilege of working under the mentorship of [Dr. Xiaobo Sun](https://med.emory.edu/directory/profile/?u=XSUN28) from the School of Statistics and Mathematics, ZUEL. It was also at ZUEL that I discovered my deep interest in the interdisciplinary field of computational biology and built lasting friendships with many like-minded peers. To further explore this intersection of algorithms and biological data, I joined The Chinese University of Hong Kong (Shenzhen) in the summer of 2025 as a research assistant, working under the guidance of [Dr. Jin Liu](https://sites.google.com/view/liujinlab/home). This internship broadened my research perspective and allowed me to deepen my understanding of computational approaches to biological problems.
 
 What excites me most about research is not only the pursuit of solutions, but the chance to contribute to a broader understanding of the world through computation. I see science as a quiet yet enduring dialogue between curiosity and rigor --- a dialogue that continually reminds us how much remains to be discovered. It is this balance of precision and wonder that I hope to carry forward in my journey.
 
 <div align=center>
-<img src='/images/CUHKSZ.jpg' width='60%'>
+<img src='/images/santa.jpg' width='60%'>
 </div>
 
 
