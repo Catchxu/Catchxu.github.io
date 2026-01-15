@@ -30,7 +30,7 @@ author_profile: true
 
 ## Conference Papers
 
-* <b>Kaichen Xu</b>, Yihang Du, Mianpeng Liu, Zimu Yu, and Xiaobo Sun. Causality-Induced Positional Encoding for Transformer-Based Representation Learning of Non-Sequential Features. In <i>Proceedings of the Annual Conference on Neural Information Processing Systems.</i>, 2025.
+* <b>Kaichen Xu<sup>*</sup></b>, Yihang Du, Mianpeng Liu, Zimu Yu, and Xiaobo Sun<sup>*</sup>. Causality-Induced Positional Encoding for Transformer-Based Representation Learning of Non-Sequential Features. In <i>Proceedings of the Annual Conference on Neural Information Processing Systems.</i>, 2025.
 
 * <b>Kaichen Xu<sup>*</sup></b>, Qilong Wu<sup>*</sup>, Yan Lu, Yinan Zheng, Jun Wang, and Xiaobo Sun. Multimodal Anomalous Tissue Region Detection Enhanced with Spatial Transcriptomics. In <i>Proceedings of the AAAI Conference on Artificial Intelligence</i>, 2025.
 
