@@ -29,6 +29,7 @@ In addition, I am currently applying to Ph.D. programs in Computer Science, Data
 
 
 ## Recent News ✉️
+* <b>02/05/2026</b> &nbsp;&nbsp; I am honored to be invited to be a reviewer for KDD.
 * <b>09/19/2025</b> &nbsp;&nbsp; Our work [CAPE](/portfolios/portfolio-1/) is accepted by [NeurIPS 2025](https://neurips.cc/virtual/2025/poster/116613).
 * <b>09/01/2025</b> &nbsp;&nbsp; I am honored to be invited to be a reviewer for ICLR.
 * <b>07/01/2025</b> &nbsp;&nbsp; I join the Liulab at The Chinese University of Hong Kong (Shenzhen) to start my summer internship.
