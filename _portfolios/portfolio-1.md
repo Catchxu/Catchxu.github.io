@@ -18,6 +18,6 @@ Positional encoding is essential for supplementing transformer with positional i
 
 This paper has been accepted by NeurIPS 2025. 
 
-ArXiv: TBD
+ArXiv: <https://arxiv.org/abs/2509.16629>
 
 GitHub: <https://github.com/Catchxu/CAPE>

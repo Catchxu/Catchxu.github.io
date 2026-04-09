@@ -28,11 +28,15 @@ In addition, I am currently applying to Ph.D. programs in Computer Science, Data
 </div>
 
 
+## Professional Service
+* Conference Reviewer: NeurIPS 2026
+* Conference Reviewer: KDD 2026
+* Conference Reviewer: ICLR 2026
+
+
 ## Recent News ✉️
 * <b>07/01/2025</b> &nbsp;&nbsp; I join the Corces lab at Emory University.
-* <b>02/05/2026</b> &nbsp;&nbsp; I am honored to be invited to be a reviewer for KDD.
 * <b>09/19/2025</b> &nbsp;&nbsp; Our work [CAPE](/portfolios/portfolio-1/) is accepted by [NeurIPS 2025](https://neurips.cc/virtual/2025/poster/116613).
-* <b>09/01/2025</b> &nbsp;&nbsp; I am honored to be invited to be a reviewer for ICLR.
 * <b>05/12/2025</b> &nbsp;&nbsp; I am fortunate to join Emory University to start my graduate studies.
 * <b>12/10/2024</b> &nbsp;&nbsp; Our work [MEATRD](/portfolios/portfolio-2/) is accepted by [AAAI 2025](https://dl.acm.org/doi/10.1609/aaai.v39i12.33409).
 * <b>08/18/2024</b> &nbsp;&nbsp; Our work [STANDS](/portfolios/portfolio-3/) is accepted by [Nature Communications](https://www.nature.com/articles/s41467-024-52445-9).
